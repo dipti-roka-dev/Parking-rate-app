@@ -24,9 +24,23 @@ A responsive React application that calculates parking fees based on entry/exit 
 
 ---
 
-## Demo
+## 🖼️ Screenshots
 
-*(Optional: Add a screenshot or GIF of the app here)*
+Calculation:
+
+![Calculation](assets/screenshots/calculation.png)
+
+Error:
+
+![Error](assets/screenshots/error.png)
+
+History:
+
+![History](assets/screenshots/history.png)
+
+Weekend:
+
+![Weekend](assets/screenshots/Weekend.png)
 
 ---
 
@@ -112,12 +126,12 @@ Example:
 parking-rate-calculator/
 │
 ├─ src/
-│  ├─ App.jsx          # Main component
-│  ├─ App.css          # Styles
-│  └─ App.test.jsx     # Vitest + React Testing Library tests
+│ ├─ App.jsx # Main React component
+│ ├─ App.css # Styles for App.jsx
+│ └─ App.test.jsx # Unit tests for App.jsx
 │
-├─ package.json
-└─ README.md
+├─ package.json # Project dependencies and scripts
+└─ README.md # Project documentation
 
 Author
-Your Name – dipti.roka.dev@gmail.com
+dipti.roka.dev@gmail.com
